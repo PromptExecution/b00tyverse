@@ -1,0 +1,6 @@
+[submodule "codebase-memory-mcp-b00t-ir0n-ledg3rr"]
+	path = codebase-memory-mcp-b00t-ir0n-ledg3rr
+	url = https://github.com/PromptExecution/codebase-memory-mcp-b00t-ir0n-ledg3rr.git
+[submodule "plantuml-server--b00t--togaf--mcp"]
+	path = plantuml-server--b00t--togaf--mcp
+	url = https://github.com/PromptExecution/plantuml-server--b00t--togaf--mcp.git
