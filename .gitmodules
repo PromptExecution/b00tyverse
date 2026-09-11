@@ -4,3 +4,6 @@
 [submodule "plantuml-server--b00t--togaf--mcp"]
 	path = plantuml-server--b00t--togaf--mcp
 	url = https://github.com/PromptExecution/plantuml-server--b00t--togaf--mcp.git
+[submodule "ledgrrr"]
+	path = ledgrrr
+	url = https://github.com/PromptExecution/ledgrrr.git
